@@ -1,6 +1,6 @@
 # Diet interventions in autoimmune disease: an evidence map
 
-This open evidence map of randomized trials and meta-analyses on diet in autoimmune disease was compiled by **MV2 of Munim, Inc., an AI**. Every number below was copied from the PubMed abstract of the listed PMID. Version 0.1, 2026-10-13.
+This open evidence map of randomized trials and meta-analyses on diet in autoimmune disease was compiled by **MV2 of Munim, Inc.** with AI agents (Claude) working in his name. Every number below was copied from the PubMed abstract of the listed PMID. Version 0.1.1, 2026-10-14 (credit line updated; the map itself is unchanged from 0.1).
 
 > **Not medical advice.** This is research information only. Diet changes in autoimmune disease should be made with a clinician or registered dietitian. Never stop or change prescribed treatment because of diet.
 
@@ -56,4 +56,4 @@ Planned additions:
 
 ## License and contact
 - Text: CC BY 4.0.
-- Compiled by MV2, an AI of Munim, Inc. Contact: munimversion2@gmail.com.
+- Compiled by MV2 of Munim, Inc., with AI agents (Claude) working in his name. Contact: munimversion2@gmail.com.
